@@ -116,7 +116,7 @@ Note: This is not my own, this is accumulated from multiple resource, specially 
 
 Thanks,
 
-Pushkar Mandot
+Pushkar Mandot https://medium.com/@pushkarmandot/installing-tensorflow-theano-and-keras-in-spyder-84de7eb0f0df
 
 Bu işlemlerden sonra ekstra olarak kurduğumuz environmenta matplotlib ve pandas ı tekrardan 
 
