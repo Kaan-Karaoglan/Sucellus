@@ -1,0 +1,2 @@
+# Sucellus
+Fire Detection Algorithm
